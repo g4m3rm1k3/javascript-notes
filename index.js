@@ -265,12 +265,80 @@ let ingredients = [
 // print(numbers[16]);
 // print(numbers['76 trombones'])
 
-const palette = {
-  red    : '#eb4d4b',
-  yellow : '#f9ca24',
-  blue   : '#30336b'
-};
-print(palette.blue)
-let mysteryColor = 'yellow';
-print(palette[mysteryColor]);
+// const palette = {
+//   red    : '#eb4d4b',
+//   yellow : '#f9ca24',
+//   blue   : '#30336b'
+// };
+// print(palette.blue)
+// let mysteryColor = 'yellow';
+// print(palette[mysteryColor]);
 
+// const userReviews = {
+
+// }
+
+// userReviews['queenBee49'] = 4.0;
+// print(userReviews);
+// userReviews.mrSmith78 = 3.5;
+// print(userReviews);
+// print(userReviews.colt);
+// userReviews.colt = '5';
+// print(userReviews);
+// userReviews['colt'] = 5;
+// print(userReviews);
+// userReviews['queenBee49'] ++;
+// print(userReviews);
+
+// const student = {
+//   firstName : 'David',
+//   lastName  : 'Jones',
+//   strengths : ['Music', 'Art'],
+//   exams     : {
+//     midterm : 92,
+//     final   : 88
+//   }     
+// };
+
+// print((student.exams.midterm+student.exams.final)/2)
+// print(student.strengths[1]).
+
+// const shoppingCart = [
+//   {
+//     product : 'Jenga Classic',
+//     price   : 6.88,
+//     quantity: 1
+//   },
+//   {
+//     product : 'Echo Dot',
+//     price   : 29.99,
+//     quantity: 3
+//   },
+//   {
+//     product : 'Fire Stick',
+//     price   : 29.99,
+//     quantity: 2
+//   }
+// ]
+
+// let nums = [1,2,3];
+// let mystery = [1,2,3];
+// print(nums.slice() == mystery.slice());
+// let moreNums = nums.slice();
+// print(moreNums == nums);
+// print(moreNums);
+// moreNums.push(8);
+// print(nums);
+// print(moreNums);
+
+// const user = {
+//   username : 'CherryGarcia8',
+//   email    : 'garcia@gmail.com',
+//   notifications: []
+// };
+
+// if (user.notifications.length){
+//   print("Hello");
+// }else{
+//   print("Goodbye")
+// }
